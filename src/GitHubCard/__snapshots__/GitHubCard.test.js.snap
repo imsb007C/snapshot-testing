@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rendera snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "25em",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="https://github.com/imsb007c.png"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        imsb007c
+      </div>
+      <p
+        className="card-text"
+      >
+        My name is Alex Chen
+      </p>
+    </div>
+  </div>
+</div>
+`;
